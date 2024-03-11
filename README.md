@@ -11,6 +11,3 @@ Hi, I'm Sewell Stephens. I'm a young developer and business owner. I have years 
 - [11ty and Decap CMS starter/boilerplate](https://github.com/sewellstephens/11ty-decap-cms-boilerplate) - A portfolio starter built on top of eleventy and Decap CMS (2024-now)
 - [Pritelmonkie](https://github.com/sewellstephens/iframe-tracking) - An alternative to third-party cookies relying on iframes (2022-2023)
 
-### Github analytics
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sewellstephens&show_icons=true)
